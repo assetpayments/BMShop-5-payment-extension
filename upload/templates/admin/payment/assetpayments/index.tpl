@@ -55,6 +55,6 @@ var initSettings = function(){
     <form action="admin/payment/assetpayments/settings" method="post">
         <div class="oT2 oEditItem"><!-- INCLUDE admin/payment/assetpayments/settings.tpl --></div>
     </form>
-     <p><a href="https://bmshop.ru/help/v1/Payment/AssetPayments/" target="_blank">Инструкция по настройке AssetPayments</a></p>
+     <p><a href="https://github.com/assetpayments/BMShop-payment-extension" target="_blank">Инструкция по настройке AssetPayments</a></p>
 </div>
 <!-- INCLUDE admin/footer.tpl -->
