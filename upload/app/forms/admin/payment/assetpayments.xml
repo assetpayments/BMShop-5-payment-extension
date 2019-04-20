@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form action="admin/stuff" method="POST">
+    <field type="string" name="merchant_id"></field>
+    <field type="string" name="secret_key"></field>
+    <field type="string" name="template_id"></field>
+    <field type="string" name="ap_currency"></field>
+</form>
